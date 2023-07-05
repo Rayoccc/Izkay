@@ -1,2 +1,2 @@
 # Izkay
-Izkay's code
+Izkay is a open source Discord Bot.
